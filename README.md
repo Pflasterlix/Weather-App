@@ -10,7 +10,7 @@ Current Weather Data: The app displays the current weather, temperature, and a d
 Graphical Representation: Weather conditions are depicted using appropriate icons.
 Transparency Effect: The app's background boasts an attractive transparent rainbow background.
 
-## Technologies and Resources: 
+## Technologies and Resources
 
 HTML, CSS, and JavaScript were utilized to create the app.
 The app utilizes the OpenWeatherMap API to retrieve weather data.
