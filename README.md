@@ -25,3 +25,5 @@ The app is easily customizable by modifying the background image, colors, and fo
 Enter the name of a city in the search field and click the magnifying glass icon to fetch weather data.
 
 The app also displays an error message if the entered location is not found.
+
+[Weather-App.webm](https://github.com/Pflasterlix/Weather-App/assets/135116915/b6db0454-5b34-42a9-bb77-bae47423a5a2)
